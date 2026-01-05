@@ -52,6 +52,9 @@ enum enWinner { Player=1, Computer=2, Draw=3 };
 
 // Dies ist nur ein Ausschnitt des Codes.
 // Den vollständigen Code finden Sie in der Datei `Stein-Papier-Schere.cpp`.
+```
+---
+
 
 ## **5️⃣ Spielausgabe / Screenshots**
 
